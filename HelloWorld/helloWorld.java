@@ -12,7 +12,7 @@ public class helloWorld {
         if(a>0){
             System.out.println("Hello World!");
         }else{
-            System.out.println("Not Hello World!");
+            System.out.println("Please enter a positive value to view Hello World!");
         }
     }
 }
