@@ -16,5 +16,7 @@ public class votingVerification {
         }else{
             System.out.println("Not Eligible!!!");
         }
+
+        sc.close();
     }
 }
