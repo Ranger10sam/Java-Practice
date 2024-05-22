@@ -2,7 +2,7 @@
 
 First of all, we need to make a new repository in GitHub.
 
-Then we have to lone that repository in our Local Drive.
+Then we have to clone that repository in our Local Drive.
 git clone <repository URL>
 
 Now we have to "cd" into the repository folder
